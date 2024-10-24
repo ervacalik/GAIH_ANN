@@ -6,7 +6,7 @@ Bu proje, büyük balık veri setini kullanarak farklı sınıflara ait nesneler
 ## Veri Seti
 Kullanılan veri seti, 9 adet sınıftan oluşmaktadır.
 
-# Sınıflar
+### Sınıflar
 * Sea  Bass
 * Black Sea Sprat
 * Hourse Mackerel
